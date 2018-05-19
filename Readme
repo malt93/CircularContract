@@ -1,0 +1,21 @@
+## Circular contract
+
+This is a contract to calculate the area of a circular.
+
+### Storage:
+
+`radius`: the radius of this circular.
+
+### Functions:
+
+#### init(radius):
+
+`radius` is initialized as `1`
+
+#### set(radius):
+
+A function to set the `radius` of this contract
+
+#### calcArea():
+
+A function to calculate the area of this contract based on the `radius`
